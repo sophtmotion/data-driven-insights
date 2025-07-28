@@ -25,3 +25,4 @@ O foco foi:
 ---
 
 ## 📂 Estrutura do Projeto
+[➡️ Confira este projeto]([(https://github.com/sophtmotion/data-driven-insights/blob/main/data_driven_insights.ipynb))
